@@ -19,8 +19,8 @@ body {
 
 .header {
 	text-align: center;
-    margin-top: 55px;
-    margin-bottom: 20px;
+    margin-top: 80px;
+    margin-bottom: 40px;
 
 }
 
@@ -89,4 +89,17 @@ box-shadow: 0px -4px 5px 1px rgba(0,0,0,0.16);
 box-shadow: 1px 0px 5px 0px rgba(24,150,247,1);
 }
 
+.signupform form .check {
+	font-size: 10px;
+	color: #aba9a9;
+	margin: 10px;
+	/*padding-bottom: 2px;*/
+}
 
+/*.signupform form .submit {*/
+	/*border-radius: 0;*/
+/*}*/
+
+.footer {
+	text-align: center;
+}
